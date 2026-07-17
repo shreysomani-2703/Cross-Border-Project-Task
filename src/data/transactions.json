@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "type": "Degree Verification",
+    "from": "Bangalore University",
+    "to": "Berlin Tech GmbH",
+    "status": "Completed"
+  },
+  {
+    "id": 2,
+    "type": "Medical Record Access",
+    "from": "Apollo Hospital",
+    "to": "Berlin Tech GmbH",
+    "status": "Pending"
+  }
+]

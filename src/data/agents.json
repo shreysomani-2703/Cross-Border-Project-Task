@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Sharma",
+    "role": "Student",
+    "worldId": 2
+  },
+  {
+    "id": 2,
+    "name": "University Admin",
+    "role": "Administrator",
+    "worldId": 2
+  },
+  {
+    "id": 3,
+    "name": "Verification AI",
+    "role": "AI Agent",
+    "worldId": 2
+  },
+  {
+    "id": 4,
+    "name": "Hospital System",
+    "role": "Medical Authority",
+    "worldId": 5
+  },
+  {
+    "id": 5,
+    "name": "HR Manager",
+    "role": "HR",
+    "worldId": 8
+  }
+]

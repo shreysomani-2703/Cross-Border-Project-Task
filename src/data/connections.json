@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "from": "Berlin Tech GmbH",
+    "to": "Bangalore University",
+    "status": "Established"
+  },
+  {
+    "id": 2,
+    "from": "Apollo Hospital",
+    "to": "Berlin Tech GmbH",
+    "status": "Pending"
+  }
+]

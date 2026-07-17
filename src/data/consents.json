@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "purpose": "Degree Verification",
+    "status": "Granted"
+  },
+  {
+    "id": 2,
+    "purpose": "Medical Record Sharing",
+    "status": "Pending"
+  }
+]

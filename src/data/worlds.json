@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "India",
+    "type": "Jurisdiction",
+    "gateway": "India Gateway",
+    "status": "Active",
+    "children": [
+      {
+        "id": 2,
+        "name": "Bangalore University",
+        "type": "Institution",
+        "gateway": "University Gateway",
+        "status": "Active",
+        "children": [
+          {
+            "id": 3,
+            "name": "Examination Department",
+            "type": "Department",
+            "gateway": "Exam Gateway",
+            "status": "Active",
+            "children": []
+          },
+          {
+            "id": 4,
+            "name": "Research Department",
+            "type": "Department",
+            "gateway": "Research Gateway",
+            "status": "Active",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Apollo Hospital",
+        "type": "Institution",
+        "gateway": "Hospital Gateway",
+        "status": "Active",
+        "children": []
+      },
+      {
+        "id": 6,
+        "name": "UIDAI",
+        "type": "Institution",
+        "gateway": "Identity Gateway",
+        "status": "Active",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "European Union",
+    "type": "Jurisdiction",
+    "gateway": "EU Gateway",
+    "status": "Active",
+    "children": [
+      {
+        "id": 8,
+        "name": "Berlin Tech GmbH",
+        "type": "Institution",
+        "gateway": "Company Gateway",
+        "status": "Active",
+        "children": [
+          {
+            "id": 9,
+            "name": "HR Department",
+            "type": "Department",
+            "gateway": "HR Gateway",
+            "status": "Active",
+            "children": []
+          },
+          {
+            "id": 10,
+            "name": "Engineering Department",
+            "type": "Department",
+            "gateway": "Engineering Gateway",
+            "status": "Active",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

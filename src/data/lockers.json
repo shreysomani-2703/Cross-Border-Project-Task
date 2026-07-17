@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Degree Locker",
+    "type": "Education",
+    "worldId": 2
+  },
+  {
+    "id": 2,
+    "name": "Identity Locker",
+    "type": "Identity",
+    "worldId": 2
+  },
+  {
+    "id": 3,
+    "name": "Medical Locker",
+    "type": "Health",
+    "worldId": 5
+  },
+  {
+    "id": 4,
+    "name": "Employment Locker",
+    "type": "Employment",
+    "worldId": 8
+  }
+]
